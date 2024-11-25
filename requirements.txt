@@ -1,0 +1,5 @@
+python-telegram-bot
+yagmail
+huggingface-hub
+transformers
+datasets
